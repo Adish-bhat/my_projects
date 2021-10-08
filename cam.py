@@ -15,3 +15,5 @@ while rval:
     if key == 27: # exit on ESC
         break
 cv2.destroyWindow("preview")
+
+# this is me
