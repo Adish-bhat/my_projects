@@ -1,5 +1,5 @@
 import cv2
-
+# starting cv2 
 cv2.namedWindow("preview")
 vc = cv2.VideoCapture(0)
 
